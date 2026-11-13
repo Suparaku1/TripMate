@@ -1,0 +1,2 @@
+cd C:\TripMate-AI-A-Multi-Agent-Travel-Planner-with-LangGraph
+docker compose up
